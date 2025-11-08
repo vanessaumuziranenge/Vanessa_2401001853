@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels country="Rwanda">
+
+    <!-- 5-STARS HOTELS (3) -->
+    <hotel id="H001">
+        <name>Kigali Skyline Hotel</name>
+        <stars>5</stars>
+        <city>Kigali</city>
+        <websitelink>https://www.kigaliskylinehotel.rw</websitelink>
+        <rooms>
+            <room id="H001-R1" category="Standard Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">90000</price>
+            </room>
+            <room id="H001-R2" category="Deluxe Double">
+                <capacity>2</capacity>
+                <bedType>Double</bedType>
+                <price currency="RWF">140000</price>
+            </room>
+            <room id="H001-R3" category="Executive Suite">
+                <capacity>3</capacity>
+                <bedType>King</bedType>
+                <price currency="RWF">220000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H002">
+        <name>Lakeview Luxury Resort</name>
+        <stars>5</stars>
+        <city>Rubavu</city>
+        <websitelink>https://www.lakeviewluxuryresort.rw</websitelink>
+        <rooms>
+            <room id="H002-R1" category="Standard Double">
+                <capacity>2</capacity>
+                <bedType>Double</bedType>`
+                <price currency="RWF">120000</price>`
+            </room>`
+            <room id="H002-R2" category="Family Suite">`
+                <capacity>4</capacity>`
+                <bedType>2 Double</bedType>`
+                <price currency="RWF">260000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H003">
+        <name>Volcano View Grand Hotel</name>
+        <stars>5</stars>
+        <city>Musanze</city>
+        <websitelink>https://www.volcanoviewgrandhotel.rw</websitelink>
+        <rooms>
+            <room id="H003-R1" category="Standard Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">85000</price>
+            </room>
+            <room id="H003-R2" category="Deluxe Twin">
+                <capacity>2</capacity>
+                <bedType>Twin</bedType>
+                <price currency="RWF">130000</price>
+            </room>
+            <room id="H003-R3" category="Presidential Suite">
+                <capacity>4</capacity>
+                <bedType>King</bedType>
+                <price currency="RWF">350000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <!-- 4-STARS HOTELS (3) -->
+    <hotel id="H004">
+        <name>City Comfort Hotel</name>
+        <stars>4</stars>
+        <city>Kigali</city>
+        <websitelink>https://www.citycomforthotel.rw</websitelink>
+        <rooms>
+            <room id="H004-R1" category="Standard Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">60000</price>
+            </room>
+            <room id="H004-R2" category="Standard Double">
+                <capacity>2</capacity>
+                <bedType>Double</bedType>
+                <price currency="RWF">90000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H005">
+        <name>Hotel des Mille Colline </name>
+        <stars>4</stars>
+        <city>Kigali</city>
+        <websitelink>https://www.millecolline.rw</websitelink>
+        <rooms>
+            <room id="H005-R1" category="Classic Room">
+                <capacity>1</capacity>
+                <bedType>Classic</bedType>
+                <price currency="RWF">50000</price>
+            </room>
+            <room id="H005-R2" category="Panorama Room">
+                <capacity>2</capacity>
+                <bedType>Panorama</bedType>
+                <price currency="RWF">80000</price>
+            </room>
+            <room id="H005-R3" category="Junior Suite">
+                <capacity>3</capacity>
+                <bedType>Queen</bedType>
+                <price currency="RWF">120000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H006">
+        <name>Nyungwe Forest Retreat</name>
+        <stars>4</stars>
+        <city>Nyamasheke</city>
+        <websitelink>https://www.nyungweforestretreat.rw</websitelink>
+        <rooms>
+            <room id="H006-R1" category="Standard Twin">
+                <capacity>2</capacity>
+                <bedType>Twin</bedType>
+                <price currency="RWF">70000</price>
+            </room>
+            <room id="H006-R2" category="Cottage Suite">
+                <capacity>3</capacity>
+                <bedType>Queen</bedType>
+                <price currency="RWF">130000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <!-- 3-STARS HOTELS (2) -->
+    <hotel id="H007">
+        <name>Downtown Business Hotel</name>
+        <stars>3</stars>
+        <city>Kigali</city>
+        <websitelink>https://www.downtownbusinesshotel.rw</websitelink>
+        <rooms>
+            <room id="H007-R1" category="Standard Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">40000</price>
+            </room>
+            <room id="H007-R2" category="Standard Double">
+                <capacity>2</capacity>
+                <bedType>Double</bedType>
+                <price currency="RWF">65000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H008">
+        <name>Gisenyi Beach Inn</name>
+        <stars>3</stars>
+        <city>Rubavu</city>
+        <websitelink>https://www.gisenyibeachinn.rw</websitelink>
+        <rooms>
+            <room id="H008-R1" category="Single Room">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">35000</price>
+            </room>
+            <room id="H008-R2" category="Triple Room">
+                <capacity>3</capacity>
+                <bedType>3 Single</bedType>
+                <price currency="RWF">80000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <!-- 2-STARS HOTELS (2) -->
+    <hotel id="H009">
+        <name>Hilltop Guest House</name>
+        <stars>2</stars>
+        <city>Rwamagana</city>
+        <websitelink>https://www.hilltopguesthouse.rw</websitelink>
+        <rooms>
+            <room id="H009-R1" category="Basic Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">25000</price>
+            </room>
+            <room id="H009-R2" category="Basic Double">
+                <capacity>2</capacity>
+                <bedType>Double</bedType>
+                <price currency="RWF">40000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel id="H010">
+        <name>Village Lodge</name>
+        <stars>2</stars>
+        <city>Bugesera</city>
+        <websitelink>https://www.villagelodge.rw</websitelink>
+        <rooms>
+            <room id="H010-R1" category="Basic Single">
+                <capacity>1</capacity>
+                <bedType>Single</bedType>
+                <price currency="RWF">20000</price>
+            </room>
+            <room id="H010-R2" category="Dormitory Bed">
+                <capacity>1</capacity>
+                <bedType>Bunk</bedType>
+                <price currency="RWF">15000</price>
+            </room>
+        </rooms>
+    </hotel>
+
+</hotels>
+
+
